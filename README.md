@@ -19,7 +19,7 @@ Analyze the technical support cases to find:
 -Data visualization
 
 ## Github repository
-[AC](https://github.com/HazelArasu/Monthly-Technical-Support-Case-Analysis)
+[cases](https://github.com/HazelArasu/Monthly-Technical-Support-Case-Analysis)
 
 
 ## Key Findings
