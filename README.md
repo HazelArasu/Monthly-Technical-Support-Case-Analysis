@@ -1,4 +1,4 @@
-# Monthly-Technical-Support-Case-Analysis
+# Monthly Technical Support Case Analysis
 
 ## Objective
 Analyze the technical support cases to find:
@@ -16,6 +16,7 @@ Analyze the technical support cases to find:
 
 ## Skills
 -Data modeling, slicers, KPIs, trend analysis
+
 -Data visualization
 
 ## Github repository
