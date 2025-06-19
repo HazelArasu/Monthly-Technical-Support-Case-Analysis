@@ -1,5 +1,3 @@
-# Monthly Technical Support Case Analysis
-
 ## Objective
 Analyze the technical support cases to find:
 - Trends across cases,customers,products,regions,product category,channels and issues
